@@ -1,0 +1,32 @@
+[
+    {
+        "codigo": 2000,
+        "nombre": "Jean",
+        "talle": 3,
+        "cantidad": 10
+    },
+    {
+        "codigo": 2050,
+        "nombre": "Zapatos de Seguridad",
+        "talle": 39,
+        "cantidad": 30
+    },
+    {
+        "codigo": 4000,
+        "nombre": "Chomba",
+        "talle": 3,
+        "cantidad": 30
+    },
+    {
+        "codigo": 9000,
+        "nombre": "Ropa inifuga",
+        "talle": 50,
+        "cantidad": 28
+    },
+    {
+        "codigo": 3000,
+        "nombre": "Campera",
+        "talle": 2,
+        "cantidad": 25
+    }
+]

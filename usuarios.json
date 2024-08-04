@@ -1,0 +1,27 @@
+[
+    {
+        "usuario": "grupo3",
+        "password": "codo",
+        "nivel": "3"
+    },
+    {
+        "usuario": "Paula",
+        "password": "1234",
+        "nivel": "2"
+    },
+    {
+        "usuario": "Leonardo",
+        "password": "9876",
+        "nivel": "3"
+    },
+    {
+        "usuario": "Eugenia",
+        "password": "7777",
+        "nivel": "1"
+    },
+    {
+        "usuario": "Valeria",
+        "password": "1234",
+        "nivel": "2"
+    }
+]

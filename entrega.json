@@ -1,0 +1,44 @@
+[
+    {
+        "codigo": 2000,
+        "nombre": "Jean",
+        "talle": 3,
+        "cantidad": 10,
+        "empleado_e": " Pepe"
+    },
+    {
+        "codigo": 3000,
+        "nombre": "Campera",
+        "talle": 2,
+        "cantidad": 20,
+        "empleado_e": " pepe"
+    },
+    {
+        "codigo": 2000,
+        "nombre": "Jean",
+        "talle": 3,
+        "cantidad": 10,
+        "empleado_e": "Jose"
+    },
+    {
+        "codigo": 2000,
+        "nombre": "Jean",
+        "talle": 3,
+        "cantidad": 10,
+        "empleado_e": "Leonardo"
+    },
+    {
+        "codigo": 3000,
+        "nombre": "Campera",
+        "talle": 2,
+        "cantidad": 3,
+        "empleado_e": "Paula"
+    },
+    {
+        "codigo": 9000,
+        "nombre": "Ropa inifuga",
+        "talle": 50,
+        "cantidad": 2,
+        "empleado_e": "Valentin Gomez"
+    }
+]
